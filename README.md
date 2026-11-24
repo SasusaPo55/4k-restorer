@@ -108,3 +108,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: 4k-restorer, video, 4k, 60fps, interpolation, restore, windows, ai, upscaler, cli, developer-tools, open-source, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+ai upscaler video 4k 60fps interpolation restore windows video-upscaler-ai 4k-restorer ai-upscaler-video windows portable prebuilt x64 free download
+related: ai, upscaler, video, 4k, 60fps, interpolation, restore, windows
